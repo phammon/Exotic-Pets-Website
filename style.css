@@ -1,0 +1,94 @@
+body {
+	background: url("https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-424939.jpg");
+	margin: auto;
+}
+html {
+	height: 100%;
+}
+#content {
+	text-align: center;
+	color: #fff;
+	padding: 10%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+h1 {
+	font-weight: 700;
+	font-size: 4em;
+	line-height: .9;
+
+}
+img {
+	height: 120%;
+	width: auto;
+
+}
+hr {
+	width: 500px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.gallery {
+	background-image: none;
+	text-align: center;
+	background: #A9A9A9;
+}
+.gallery .jumbotron {
+	background: #d3d3d3
+}
+.thumbnail img{
+	width: 325px;
+	height: 225px;
+}
+.row .thumbnail {
+	display:inline-block;
+	border: 0 none;
+    box-shadow: none;
+	
+}
+#about {
+	background-image: none;
+
+}
+#about .jumbotron {
+	text-align: center;
+	background: #ecf0f1;
+}
+#about .img-circle {
+	width: 215px;
+	height: 236px;
+
+}
+#about .container {
+	text-align:center;
+
+}
+#about #ourTeam {
+	text-align: left;
+}
+#about #newContainer {
+	padding: 2%;
+	text-align: left;
+	background-color: #ecf0f1;
+	margin: 0 auto;
+}
+#about #imageContainer {
+	padding: 3%;
+}
+#about #buttonContainer {
+	padding: 2%;
+}
+#snakeNav {
+	color: #222;
+}
+
+.contact .form-control {
+	width: 30%;
+	margin: 0 auto;
+}
+.contact #content {
+	padding:0;
+}
+
+
